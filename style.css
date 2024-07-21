@@ -1,0 +1,49 @@
+@font-face {
+  font-family: "Kode Mono";
+  src: url("KodeMono-Regular.ttf");
+}
+* {
+  font-family: "Kode Mono";
+  transition: 0.25s;
+}
+
+body {
+  text-align: center;
+  background: #2f2f2f;
+  color: #cdcdcd;
+}
+
+.project {
+  background: #2f2f2f;
+  padding: 5px;
+  width: 50vw;
+  margin: 0 auto;
+  border-radius: 20px;
+}
+.project:hover {
+  background: #4a4a4a;
+  cursor: pointer;
+}
+
+a {
+  color: #757575;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+
+header {
+  background: #00000055;
+  padding: 40px;
+  width: 50vw;
+  margin: 0 auto;
+  border-radius: 20px;
+}
+
+@media (max-width: 426px) {
+  .project,
+  header {
+    width: 70vw;
+  }
+}
