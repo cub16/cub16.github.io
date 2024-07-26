@@ -41,6 +41,10 @@ header {
   border-radius: 20px;
 }
 
+.site{
+  margin: 1vw;
+}
+
 @media (max-width: 426px) {
   .project,
   header {
