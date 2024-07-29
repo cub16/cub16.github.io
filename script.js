@@ -6,6 +6,13 @@ const projects = [
     langs: ["HTML", "CSS", "JS"],
     url: "https://cub16.github.io/Lumina",
   },
+  {
+    icon: "📖",
+    name: "BookNow",
+    desc: "Wattpad Book Downloader",
+    langs: ["PYTHON"],
+    url: "https://github.com/cub16/BookNow"
+  }
 ];
 
 projects.forEach((project) => {
