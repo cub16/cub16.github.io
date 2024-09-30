@@ -4,6 +4,11 @@ const projects = [
     desc: "A tool to download books from Wattpad.",
     url: "https://github.com/cub16/BookNow/",
   },
+  {
+    name: "koto",
+    desc: "simple text editor",
+    url: "https://cub16.github.io/koto",
+  },
 ];
 
 projects.forEach((project, index) => {
