@@ -5,9 +5,9 @@ const projects = [
     url: "https://github.com/cub16/BookNow/",
   },
   {
-    name: "koto",
-    desc: "simple text editor",
-    url: "https://cub16.github.io/koto",
+    name: "Koto",
+    desc: "A simple text editor",
+    url: "https://cub16.github.io/Koto",
   },
 ];
 
