@@ -1,7 +1,7 @@
 const projects = [
   {
     name: "BookNow",
-    desc: "A tool to download books from Wattpad.",
+    desc: "A tool to download books from Wattpad",
     url: "https://github.com/cub16/BookNow/",
   },
   {
